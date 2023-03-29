@@ -6,3 +6,4 @@ elif a>0:
     print('The given integer is positive')
 else:
     print('The given integer is negative')
+    
